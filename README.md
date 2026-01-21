@@ -214,6 +214,3 @@ After launch:
 
 ---
 
-## 📝 License
-
-MIT
